@@ -2,6 +2,9 @@
 * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) - нажмите Github, вставьте ссылку на ноутбук (выберите один из ноутбуков выше) и нажмите Enter. Или создайте пустой ноутбук.
 * [Binder](https://mybinder.org/) - вставьте ссылку на весь репозиторий (скопируйте адрес этой страницы) и нажмите Launch
 
+# Установка python на свой компьютер
+* [Anaconda - дистрибутив, включайщий jupyter notebook и необходимые библиотеки](https://www.anaconda.com/products/individual#windows)
+
 # Дополнительная литература
 
 На занятиях мы познакомились со следующими конструкциями:
@@ -26,9 +29,11 @@
 * [Курс на DataCamp (en)](https://www.datacamp.com/courses/intro-to-python-for-data-science/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) - подробно и снова интерактивно
 * [Dive into python (рус)](http://ru.diveintopython.net/) -  подробный онлайн-учебник, переведенный на русский язык
 
-Материалы по sklearn:
+Материалы по sklearn и анализу данных в python:
 * [Официальные туториалы sklearn](http://scikit-learn.org/stable/tutorial/index.html) - тут же много полезного про сами алгоритмы
 * [Вводный интерактивный туториал](https://www.datacamp.com/community/tutorials/machine-learning-python)
+* [Специализация МФТИ на Coursera](https://ru.coursera.org/specializations/machine-learning-data-analysis)
+* [Курс на Открытом образовании](https://openedu.ru/course/hse/INTRML/)
 
 Материалы по pandas:
 * [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html) - официальное быстрое введение в библиотеку 
