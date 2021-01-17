@@ -30,10 +30,10 @@
 * [Dive into python (рус)](http://ru.diveintopython.net/) -  подробный онлайн-учебник, переведенный на русский язык
 
 Материалы по sklearn и анализу данных в python:
-* [Официальные туториалы sklearn](http://scikit-learn.org/stable/tutorial/index.html) - тут же много полезного про сами алгоритмы
-* [Вводный интерактивный туториал](https://www.datacamp.com/community/tutorials/machine-learning-python)
 * [Специализация МФТИ на Coursera](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [Курс на Открытом образовании](https://openedu.ru/course/hse/INTRML/)
+* [Официальные туториалы sklearn](http://scikit-learn.org/stable/tutorial/index.html) - тут же много полезного про сами алгоритмы
+* [Вводный интерактивный туториал](https://www.datacamp.com/community/tutorials/machine-learning-python)
 
 Материалы по pandas:
 * [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html) - официальное быстрое введение в библиотеку 
@@ -43,3 +43,5 @@
 Материалы по numpy:
 * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
 * [Ноутбук с семинаров ФКН](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem01-tools.ipynb) - тут же про оформление ячеек в среде jupyter, необходимый и в целом для начала достаточный минимум по numpy и pandas
+
+Коллекция видео про кейсы применения МО в разных областях: материалы Датафеста https://datafest.ru/video/ + материалы Sberbank AI Journey https://ai-journey.ru/media/broadcast
