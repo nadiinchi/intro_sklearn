@@ -1,6 +1,6 @@
 # Материалы
-* Часть 1 (boston): [задание](https://github.com/nadiinchi/intro_sklearn/blob/master/1_boston_task.ipynb) [решение](https://github.com/nadiinchi/intro_sklearn/blob/master/1_boston_task_solution.ipynb)
-* Часть 2 (scoring): [задание](https://github.com/nadiinchi/intro_sklearn/blob/master/2_scoring_task.ipynb) [решение](https://github.com/nadiinchi/intro_sklearn/blob/master/2_scoring_task_solution.ipynb)
+* Часть 1 (boston): [задание](https://github.com/nadiinchi/intro_sklearn/blob/master/1_boston_task.ipynb), [решение](https://github.com/nadiinchi/intro_sklearn/blob/master/1_boston_task_solution.ipynb)
+* Часть 2 (scoring): [задание](https://github.com/nadiinchi/intro_sklearn/blob/master/2_scoring_task.ipynb), [решение](https://github.com/nadiinchi/intro_sklearn/blob/master/2_scoring_task_solution.ipynb)
 * Часть 3 (sms): [задание](https://github.com/nadiinchi/intro_sklearn/blob/master/3_sms.ipynb)
 
 # Среды для программирования на Python в браузере
